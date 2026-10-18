@@ -2,7 +2,7 @@
 
 Applied Energistics 2 integration module for the **Folded Horizons** companion mod.
 
-Will live at [`folded-horizons/folded-horizons-ae2`](https://github.com/folded-horizons/folded-horizons-ae2).
+
 
 ## What it ships
 
